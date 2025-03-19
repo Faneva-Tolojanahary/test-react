@@ -4,13 +4,11 @@ import { useState } from "react"
 
 function App() {
  
-  const [count, setCount] = useState(0);
 
   return (
     <>
-     <h1 className='text-center text-2xl'>Bonjour</h1>
+     <h1 className='text-center text-2xl'>Test React js </h1>
 
-     <p> {count} </p>
     </>
   )
 }
