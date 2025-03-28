@@ -23,6 +23,7 @@ const App = () => {
           placeat molestias enim sint nisi sequi repudiandae optio tempore,
           aliquam quis alias harum vero maiores ipsum nihil in officiis labore.
         </p>
+        <p>Merci </p>
       </div>
       <div className="flex absolute top-4 right-20">
         <button
