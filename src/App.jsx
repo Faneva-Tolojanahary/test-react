@@ -16,7 +16,14 @@ const App = () => {
           : "bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white"
       }`}
     >
-      <h1 className="font-bold text-3xl">Hello </h1>
+      <div className="text-center">
+        <h1 className="font-bold text-3xl">Hello </h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident aut
+          placeat molestias enim sint nisi sequi repudiandae optio tempore,
+          aliquam quis alias harum vero maiores ipsum nihil in officiis labore.
+        </p>
+      </div>
       <div className="flex absolute top-4 right-20">
         <button
           onClick={toggleBackground}
