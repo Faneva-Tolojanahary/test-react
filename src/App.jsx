@@ -16,7 +16,7 @@ const App = () => {
           : "bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-white"
       }`}
     >
-      <h1 className="font-bold text-3xl">Hello world</h1>
+      <h1 className="font-bold text-3xl">Hello </h1>
       <div className="flex absolute top-4 right-20">
         <button
           onClick={toggleBackground}
