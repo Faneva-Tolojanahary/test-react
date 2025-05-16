@@ -1,0 +1,14 @@
+
+
+@keyframes animate-card {
+    from {
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+.myanimation {
+    animation: animate-card .5s ;
+}
